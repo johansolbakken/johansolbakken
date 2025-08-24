@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Johan 👋
+
+I build search and relevance systems at [Vespa.ai](https://vespa.ai) and tinker with database systems and compilers.
+
+- 🔭 I’m currently working on query parsing and execution.
+- 🌱 I’m learning compiler internals with a focus on intermediate representations (IR).
+
+[LinkedIn](https://www.linkedin.com/in/johansolbakken/)
 
 <!--
 **johansolbakken/johansolbakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
