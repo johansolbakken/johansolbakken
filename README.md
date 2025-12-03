@@ -1,23 +1,19 @@
-## Hi there, I'm Johan 👋
+# Hi, I'm Johan 👋
 
-I build search and relevance systems at [Vespa.ai](https://vespa.ai) and tinker with database systems and compilers.
+I'm a software engineer specializing in **search systems, database internals, and compiler design**. Currently building high-performance search and relevance systems at [Vespa.ai](https://vespa.ai), where I work on query parsing, execution, and distributed systems.
 
-- 🔭 I’m currently working on query parsing and execution.
-- 🌱 I’m learning compiler internals with a focus on intermediate representations (IR).
+## 🚀 What I Do
 
-[LinkedIn](https://www.linkedin.com/in/johansolbakken/)
+I focus on the intersection of search technology and systems programming, with particular interests in:
 
-<!--
-**johansolbakken/johansolbakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Search & Relevance Engineering** – Building scalable query processing systems and ranking pipelines
+- **Database Systems** – Exploring storage engines, query optimization, and distributed data systems
+- **Compiler Development** – Learning compiler internals with emphasis on intermediate representations (IR) and optimization passes
 
-Here are some ideas to get you started:
+## 🌱 Currently Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm diving deep into compiler internals, particularly studying how different IRs (LLVM IR, MLIR, cranelift) handle optimization and code generation. I'm interested in how compiler techniques can improve query execution in database and search systems.
+
+## 📫 Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johansolbakken/)
