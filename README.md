@@ -7,7 +7,7 @@ Built small systems along the way (query engines, benchmarks, compilers).
 
 🎓 MSc in Informatics, NTNU.
 
-### Languages I currently use
+### Languages I use
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
