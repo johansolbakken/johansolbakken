@@ -1,19 +1,21 @@
-# Hi, I'm Johan 👋
+## @johansolbakken
 
-I'm a software engineer specializing in **search systems, database internals, and compiler design**. Currently building high-performance search and relevance systems at [Vespa.ai](https://vespa.ai), where I work on query parsing, execution, and distributed systems.
+🛠️ I work on search and retrieval at Vespa.ai, mainly query parsing and execution.
 
-## 🚀 What I Do
+🔎 Interested in search, databases, compilers, and programming languages. Mostly the parts where performance matters.
 
-I focus on the intersection of search technology and systems programming, with particular interests in:
+🎓 MSc in Informatics, NTNU.
 
-- **Search & Relevance Engineering** – Building scalable query processing systems and ranking pipelines
-- **Database Systems** – Exploring storage engines, query optimization, and distributed data systems
-- **Compiler Development** – Learning compiler internals with emphasis on intermediate representations (IR) and optimization passes
+### Languages I currently use
 
-## 🌱 Currently Exploring
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-I'm diving deep into compiler internals, particularly studying how different IRs (LLVM IR, MLIR, cranelift) handle optimization and code generation. I'm interested in how compiler techniques can improve query execution in database and search systems.
+### Interested in exploring
 
-## 📫 Social
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johansolbakken/)
+![Jai](https://img.shields.io/badge/Jai-000000?style=for-the-badge)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
+![Odin](https://img.shields.io/badge/Odin-3882D2?style=for-the-badge)
