@@ -2,8 +2,7 @@
 
 🛠️ I work on search and retrieval at Vespa.ai, mainly query parsing and execution.
 
-🔎 Interested in search, databases, compilers, and programming languages. Mostly the parts where performance matters. 
-Built small systems along the way (query engines, benchmarks, compilers).
+🔎 Interested in search, databases, compilers, and programming languages — mostly where performance matters.
 
 🎓 MSc in Informatics, NTNU.
 
